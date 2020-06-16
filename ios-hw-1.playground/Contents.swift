@@ -181,3 +181,21 @@ age2 != 17
 age3 != 17
 
 
+//
+
+age1 == age2 && age1 == age3 && age2 == age3
+age1 == age2 || age1 == age3 || age2 == age3
+
+age1 > 18 && age2 > 18 && age3 > 18
+age1 > 18 || age2 > 18 || age3 > 18
+
+age1 < 18 && age2 < 18 && age3 < 18
+age1 < 18 || age2 < 18 || age3 < 18
+
+age1 == 17 && age2 == 17 && age3 == 17
+age1 == 17 || age2 == 17 || age3 == 17
+
+age1 != 17 && age2 != 17 && age3 != 17
+age1 != 17 || age2 != 17 || age3 != 17
+
+
